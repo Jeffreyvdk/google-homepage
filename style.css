@@ -1,0 +1,17 @@
+main {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(8, 1fr);
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+}
+
+.grid-item2 {
+    grid-row: 3;
+    grid-column: 3;
+    display: flex;
+    justify-content: center;
+}

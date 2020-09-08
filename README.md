@@ -8,3 +8,4 @@ Skills demonstrated:
 - HTML
 - CSS
 - CSS Grid
+- CSS Flexbox
